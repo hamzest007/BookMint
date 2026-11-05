@@ -60,4 +60,4 @@ npm run lint
 
 ## Project status
 
-This repository is currently private and under active development.
+This repository is public and under active development.
